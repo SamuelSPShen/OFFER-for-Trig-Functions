@@ -16,10 +16,10 @@ plot(0, 0, type= 'l',
      xlim = c(-1.2, 1.2),  
      ylim = c(-1.2, 1.2), bty = 'n',
      xaxt="n",  yaxt="n", xlab = '', ylab = '')
-
+```
 
 ```
 $\int_a^b \sin x ~ dx= 5$
-
+```
 
 Dylan teaches me
