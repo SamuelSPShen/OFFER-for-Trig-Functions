@@ -18,4 +18,6 @@ plot(0, 0, type= 'l',
      xaxt="n",  yaxt="n", xlab = '', ylab = '')
 '''
 
+```
 $\int_a^b \sin x ~ dx= 5$
+'''
