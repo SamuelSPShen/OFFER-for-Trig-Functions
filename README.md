@@ -1,6 +1,10 @@
 # OFFER-for-Trig-Functions
-This repo contains computer code for teaching trig functions using OFFER and SPORT approaches
+This repo contains computer code for the paper by Samuel Shen for teaching trig functions using OFFER and SPORT approaches.
 It has two type of code: Python and R. The figure below is Fig. 3 of the paper. 
+
+Citation: 
+Shen, S.S.P., 2026: OFFER (One-Figure-Faciliates-Every-Relationship) for Trigonometric Functions. arXiv
+Shen, S.S.P., 2026: Computer code for the paper on  OFFER-for-trig-functions.  DOI: https://doi.org/10.5281/zenodo.21267201
 <img width="3600" height="2484" alt="fig03trig copy" src="https://github.com/user-attachments/assets/bcf628c4-d059-4ac9-8747-0a26424e1cb0" />
 
 ```
